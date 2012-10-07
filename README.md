@@ -1,4 +1,4 @@
 nix
 ===
 
-The place for couple useful copy-paste tutorials
+The place for some useful copy-paste tutorials
